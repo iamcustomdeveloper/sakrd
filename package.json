@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev" : "vite --port 3000",
-    "build" : "vite build",
-    "preview" : "vite preview"
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "keywords": [],
   "author": "",
@@ -18,5 +18,8 @@
   },
   "dependencies": {
     "vite": "^5.2.11"
+  },
+  "engines": {
+    "node": ">=16"
   }
 }
